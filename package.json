@@ -1,0 +1,10 @@
+{
+  "name": "ejemplo-verduleria",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo del curso: stock minimo de una verduleria con servidor local",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "license": "MIT"
+}
